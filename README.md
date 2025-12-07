@@ -1,4 +1,4 @@
-# Data Science Challenge
+# Business Intelligence Challenge
 You work as a Business Intelligence Analyst for a global e-commerce company that sells products across different countries and has both B2B and B2C customers. The company is experiencing rapid growth, but there are concerns about profitability in certain regions, customer retention, and pricing strategies. Your task is to analyze the company's profitability and segment the market to provide insights on where the company should focus its efforts.
 
 ---
